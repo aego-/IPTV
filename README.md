@@ -1,4 +1,2 @@
 # IPTV
-Proyecto responsivo para iptv
-
-[Can you ear me](http://canyouearme.com.mx)
+Proyecto responsivo para iptv (pruebas de listas m3u)
